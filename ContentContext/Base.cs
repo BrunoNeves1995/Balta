@@ -1,7 +1,7 @@
 
 namespace Balta.ContentContext
 {
-    public class Base
+    public  abstract class Base
     {
         // tudo que é comum nas outras classes ficam aqui dentro
 
